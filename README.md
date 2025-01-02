@@ -5,8 +5,11 @@
 
 🔧 Skills: 
 ●	Programming: Java, Python, JavaScript, HTML5, CSS3
+
 ●	Tools and Frameworks: React, Node.js, REST APIs, JSON, NLTK, Hugging Face Transformers, Machine Learning Models
+
 ●	Databases: MySQL, MongoDB, NoSQL, RDBMS
+
 ●	Soft Skills: Communication, Teamwork, Problem Solving, Leadership
 
 
